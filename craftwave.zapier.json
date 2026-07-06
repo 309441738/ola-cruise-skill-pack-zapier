@@ -1,0 +1,10 @@
+{
+  "title": "Cruise Product Skill Pack",
+  "description": "A comprehensive skill pack for cruise enthusiasts, offering tools for searching, filtering, and exploring cruise products.",
+  "version": "1.0.0",
+  "platformVersion": "15.0.0",
+  "published_with": "craftwave",
+  "authentication": {
+    "type": "oauth2"
+  }
+}
